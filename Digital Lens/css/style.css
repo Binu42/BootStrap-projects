@@ -97,13 +97,14 @@
 }
 
 #page-header {
-    height: 200px;
+    height: 250px;
     background: url('../img/image5.jpg');
     background-position: 0 360px;
     background-attachment: fixed;
+    /* background-repeat: no-repeat; */
     color: white;
     border-bottom: 1px solid #eee;
-    padding-top: 50px;
+    padding-top: 20px;
     background-size: cover;
 }
 
