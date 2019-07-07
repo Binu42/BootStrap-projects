@@ -3,7 +3,7 @@
 }
 
 .navbar {
-    border-bottom: 5px solid;
+    border-bottom: 4px solid;
     -moz-border-image: -moz-linear-gradient(to left, #79cc9e 0%, #beedec 25%, #c5ceff 50%, #cabd96 75%, #b591c7 100%);
     -webkit-border-image: -webkit-linear-gradient(to left, #79cc9e 0%, #beedec 25%, #c5ceff 50%, #cabd96 75%, #b591c7 100%);
     border-image: linear-gradient(to left, #f52121, #0ef3ef, #28e90e, #f01b1b);
@@ -11,7 +11,7 @@
 }
 
 .card {
-    border: 3px dotted;
+    border: 3px solid;
     -moz-border-image: -moz-linear-gradient(to left, #79cc9e 0%, #beedec 25%, #c5ceff 50%, #cabd96 75%, #b591c7 100%);
     -webkit-border-image: -webkit-linear-gradient(to left, #79cc9e 0%, #beedec 25%, #c5ceff 50%, #cabd96 75%, #b591c7 100%);
     border-image: linear-gradient(50deg, #f52121, #0ef3ef, #28e90e, #f01b1b);
@@ -97,14 +97,13 @@
 }
 
 #page-header {
-    height: 16%;
+    height: 18rem;
     background: url('../img/image5.jpg');
     background-position: 0 360px;
     background-attachment: fixed;
-    /* background-repeat: no-repeat; */
     color: white;
     border-bottom: 1px solid #eee;
-    padding-top: 2%;
+    padding-top: 3%;
     background-size: cover;
 }
 
