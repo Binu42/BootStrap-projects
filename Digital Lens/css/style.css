@@ -99,7 +99,7 @@
 #page-header {
     height: 18rem;
     background: url('../img/image5.jpg');
-    background-position: 0 360px;
+    background-position: bottom;
     background-attachment: fixed;
     color: white;
     border-bottom: 1px solid #eee;
