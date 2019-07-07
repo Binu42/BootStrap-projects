@@ -1,0 +1,19 @@
+.card {
+    border: 3px solid;
+    border-image: linear-gradient(50deg, #00f8f8, #ff0101, #05ff05, #ff006a);
+    border-image-slice: 1;
+}
+
+.border--custom{
+    border-top: 3px solid;
+    border-image: linear-gradient(50deg, #00f0f8, #ff0101, #05ff65, #ff0080);
+    border-image-slice: 1;
+}
+
+.bg-color{
+    background-image: linear-gradient(to right, #fa6704, #fdfdfd, #00ff55);
+}
+
+body{
+    background-image: linear-gradient(to right, #fa6704, #fdfdfd, #00ff55);
+}
