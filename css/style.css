@@ -17,3 +17,7 @@
 body{
     background-image: linear-gradient(to right, #fa6704, #fdfdfd, #00ff55);
 }
+
+a{
+    font-size: 1.1rem;
+}
