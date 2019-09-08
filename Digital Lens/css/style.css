@@ -138,3 +138,9 @@
     width: 10px;
     border-radius: 100%;
 }
+
+@media(max-width: 770px){
+    #staff img{
+        width: 150px;
+    }
+}
